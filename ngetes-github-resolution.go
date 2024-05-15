@@ -9,6 +9,6 @@ func main(){
               Resolution saya :
               - membuat bahasa pemrograman saya sendiri
               - iggin bekerja di Mocrosoft/Google
-              
+              - aggular pak🗿
               ")
 }
